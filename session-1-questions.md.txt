@@ -2,3 +2,5 @@
 To use in the classroom
 2. How do you plan to use GitHub in your classroom?
 To share files and give students a place to track changes to their code.
+What are ways that GitHub might help you and your students manage code?
+By giving them an area so upload their code, make changes, track the changes, and work collaboratively
